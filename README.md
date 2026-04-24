@@ -1,2 +1,4 @@
 Bem vindo ao meu site de portfólio.
-Boa leitura.
+Aqui vão as minhas instruções:
+Acesse o classroom.
+Encontre o meu link do Portfólio na matéria Back-End I do 2ºA do professor Paulo.
